@@ -1,0 +1,9 @@
+pyPDF2
+pypdf
+faiss-cpu
+langchain
+openai
+unstructured
+streamlit
+pdfplumber
+tictoken
