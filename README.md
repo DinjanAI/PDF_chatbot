@@ -28,7 +28,7 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 - If `venv` is missing, install it using `pip install virtualenv` within the activated virtual environment.
 - For issues with Python version or `pip` installation, refer to the documentation.
 
-**# Running the Chatbot:**
+** Running the Chatbot:**
 
 1. **Within the activated virtual environment:**
 2. **Run the command:** `streamlit run deployment.py`
