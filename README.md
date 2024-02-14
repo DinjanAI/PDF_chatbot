@@ -34,11 +34,7 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 2. **Run the command:** `streamlit run deployment.py`
 
 
-**Remember:**
 
-- Replace placeholders with your actual values (e.g., path, environment name).
-- Adjust the instructions based on your project setup and requirements.
-- Consider adding error handling or more detailed troubleshooting steps if needed.
 
 
 
