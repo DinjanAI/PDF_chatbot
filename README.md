@@ -40,7 +40,7 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 - Adjust the instructions based on your project setup and requirements.
 - Consider adding error handling or more detailed troubleshooting steps if needed.
 
-By following these enhanced instructions and addressing potential issues, users can effortlessly set up and interact with your PDF chatbot!```
+
 
 
 
