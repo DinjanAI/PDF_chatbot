@@ -35,7 +35,7 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 
 **Output Video**
 <video width="640" height="360" controls>
-    <source src="URL_TO_YOUR_VIDEO" type="video/mp4">
+    <source src="https://github.com/Dinjan-AIML/PDF_chatbot/blob/main/InShot_20240201_125356539.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
