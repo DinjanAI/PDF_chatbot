@@ -41,9 +41,9 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 
 
 Output
-<!--<p align="center">-->
-<!--  <img src="pdf.png" width="75%" > -->
-<!-- </p> -->
+<p align="center">
+<img src="pdf.png" width="75%" >
+</p>
 
 
 
