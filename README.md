@@ -34,16 +34,10 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 2. **Run the command:** `streamlit run deployment.py`
 
 **Output Video**
-<video width="640" height="360" controls>
-    <source src="https://github.com/Dinjan-AIML/PDF_chatbot/blob/main/InShot_20240201_125356539.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+OUTPUT[https://github.com/Dinjan-AIML/PDF_chatbot/assets/159764677/0c740755-dff8-44dd-bfc4-466d86653b41]
 
 
-Output
-<p align="center">
-<img src="pdf.png" width="75%" >
-</p>
 
 
 
