@@ -33,11 +33,17 @@ To run this PDF chatbot, you'll need a virtual environment to manage dependencie
 1. **Within the activated virtual environment:**
 2. **Run the command:** `streamlit run deployment.py`
 
-**Output**
+**Output Video**
+<video width="640" height="360" controls>
+    <source src="URL_TO_YOUR_VIDEO" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-<p align="center">
- <img src="pdf.png" width="75%" >
-</p>
+
+Output
+<!--<p align="center">-->
+<!--  <img src="pdf.png" width="75%" > -->
+<!-- </p> -->
 
 
 
